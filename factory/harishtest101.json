@@ -1,0 +1,9 @@
+{
+	"name": "harishtest101",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "985e1a71-3231-4ee7-bc49-a1082c39478e",
+		"tenantId": "604c1504-c6a3-4080-81aa-b33091104187"
+	}
+}
